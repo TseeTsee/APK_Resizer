@@ -1,0 +1,12 @@
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\bin\Release\APK Resizer.exe
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\bin\Release\APK Resizer.pdb
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\bin\Release\APK Resizer.xml
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\bin\Release\ZipForge.dll
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\bin\Release\ZipForge.xml
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Release\APK_Resizer.Form1.resources
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Release\APK_Resizer.Resources.resources
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Release\APK Resizer.vbproj.GenerateResource.Cache
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Release\APK Resizer.exe
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Release\APK Resizer.xml
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Release\APK Resizer.pdb

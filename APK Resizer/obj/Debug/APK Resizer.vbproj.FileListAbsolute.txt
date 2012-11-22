@@ -1,0 +1,24 @@
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\bin\Debug\APK Resizer.exe
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\bin\Debug\APK Resizer.pdb
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\bin\Debug\APK Resizer.xml
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\obj\Debug\APK_Resizer.Form1.resources
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\obj\Debug\APK_Resizer.Resources.resources
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\obj\Debug\APK Resizer.vbproj.GenerateResource.Cache
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\obj\Debug\APK Resizer.exe
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\obj\Debug\APK Resizer.xml
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\obj\Debug\APK Resizer.pdb
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\bin\Debug\ZipForge.dll
+C:\Users\Spajky\AppData\Local\Temporary Projects\APK Resizer\bin\Debug\ZipForge.xml
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Debug\APK Resizer.exe
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Debug\APK Resizer.xml
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Debug\APK Resizer.pdb
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\bin\Debug\APK Resizer.exe
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\bin\Debug\APK Resizer.pdb
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\bin\Debug\APK Resizer.xml
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\bin\Debug\ZipForge.dll
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\bin\Debug\ZipForge.xml
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Debug\APK_Resizer.Form1.resources
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Debug\APK_Resizer.Resources.resources
+C:\Users\Spajky\Documents\Visual Studio 2008\Projects\APK Resizer\APK Resizer\obj\Debug\APK Resizer.vbproj.GenerateResource.Cache
