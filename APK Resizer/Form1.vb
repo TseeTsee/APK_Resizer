@@ -166,8 +166,6 @@ Public Class Form1
 
     Sub CheckSize()
 
-        ' ------ resizing TO LDPI isn't done yet! --------
-
         If highestres = "xhdpi" And targetres = "hdpi" Then
             NewHeight = OriginalHeight - (OriginalHeight * 0.666)
             NewWidth = OriginalWidth - (OriginalWidth * 0.666)
@@ -178,10 +176,10 @@ Public Class Form1
             NewWidth = OriginalWidth - (OriginalWidth * 0.444)
         End If
 
-        'If highestres = "xhdpi" And targetres = "ldpi" Then
-        'NewHeight = OriginalHeight - (OriginalHeight * resizepercentage)
-        'NewWidth = OriginalWidth - (OriginalWidth * resizepercentage)
-        'End If
+        If highestres = "xhdpi" And targetres = "ldpi" Then
+            NewHeight = OriginalHeight - (OriginalHeight * 2.666)
+            NewWidth = OriginalWidth - (OriginalWidth * 2.666)
+        End If
 
         If highestres = "hdpi" And targetres = "xhdpi" Then
             NewHeight = OriginalHeight + (OriginalHeight * 1.5)
@@ -193,10 +191,10 @@ Public Class Form1
             NewWidth = OriginalWidth - (OriginalWidth * 0.666)
         End If
 
-        'If highestres = "hdpi" And targetres = "ldpi" Then
-        'NewHeight = OriginalHeight - (OriginalHeight * resizepercentage)
-        'NewWidth = OriginalWidth - (OriginalWidth * resizepercentage)
-        'End If
+        If highestres = "hdpi" And targetres = "ldpi" Then
+            NewHeight = OriginalHeight - (OriginalHeight * 2)
+            NewWidth = OriginalWidth - (OriginalWidth * 2)
+        End If
 
         If highestres = "mdpi" And targetres = "xhdpi" Then
             NewHeight = OriginalHeight + (OriginalHeight * 2.25)
@@ -208,10 +206,10 @@ Public Class Form1
             NewWidth = OriginalWidth + (OriginalWidth * 1.5)
         End If
 
-        'If highestres = "mdpi" And targetres = "ldpi" Then
-        'NewHeight = OriginalHeight - (OriginalHeight * resizepercentage)
-        'NewWidth = OriginalWidth - (OriginalWidth * resizepercentage)
-        'End If
+        If highestres = "mdpi" And targetres = "ldpi" Then
+            NewHeight = OriginalHeight - (OriginalHeight * 1.333)
+            NewWidth = OriginalWidth - (OriginalWidth * 1.333)
+        End If
 
         If highestres = "ldpi" And targetres = "xdpi" Then
             NewHeight = OriginalHeight + (OriginalHeight * 2.666)
