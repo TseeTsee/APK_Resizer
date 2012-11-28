@@ -77,6 +77,10 @@ Public Class Form1
         If result = Windows.Forms.DialogResult.OK Then
             TextBox1.Text = APKopen.FileName
             Label3.Text = "Existing" & vbNewLine & "resolutions:"
+            If Directory.Exists(temppath) Then
+                Directory.Delete(temppath, True)
+                Directory.CreateDirectory(temppath)
+            End If
             ExtractArchive(temppath)
             RadioButton1.Enabled = True
             RadioButton2.Enabled = True
@@ -159,7 +163,6 @@ Public Class Form1
             archiver.BaseDir = temppath
             archiver.AddFiles("*.*")
             archiver.CloseArchive()
-            Directory.Delete("C:\temp", True)
         Catch ex As ArchiverException
 
         End Try
@@ -225,5 +228,9 @@ Public Class Form1
             NewHeight = OriginalHeight + (OriginalHeight * 1.333)
             NewWidth = OriginalWidth + (OriginalWidth * 1.333)
         End If
+    End Sub
+
+    Private Sub Form1_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
+        Directory.Delete("C:\temp", True)
     End Sub
 End Class
