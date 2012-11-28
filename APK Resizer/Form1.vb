@@ -116,6 +116,7 @@ Public Class Form1
 
 
     Public Sub ResizeImagesInFolder(ByVal SourceFolder As String, ByVal DestinationFolder As String)
+        On Error Resume Next ' Just to prevent ugly error from showing up :P
         If Not Directory.Exists(SourceFolder) Then
             Throw New Exception("SourceFolder does not exist")
         End If
