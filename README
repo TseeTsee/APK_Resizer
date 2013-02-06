@@ -1,0 +1,21 @@
+APK Resizer
+------------
+Github source status = Broken (Beta 1 Work-in-progress)
+-------------------------------------------------------
+Changelog:
+Beta 1 (WIP):
+- Fix not responding while resizing (added background worker)
+- Added progress bar
+- Added "APK Resizer successfully!" at end of resizing
+- Added "Welcome pop-up"
+- Rewrited zip/unzip code, now uses internal Windows compressing engine:
+	- No more ZipForge.dll, just application .exe now
+	- Fixed "The actual size of data and DataSize parameter are different" error
+
+Alpha 2:
+- Stability fixes:
+	- Added error catching on critical place
+	- Delete temp folder on exit
+	
+Alpha 1:
+- Initial release
